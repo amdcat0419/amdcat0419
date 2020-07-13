@@ -10,27 +10,29 @@ I am especially interested at game devloping
 
 # Be able to Develope
 ```
-* Software
-* Game
-* Web
-* Web crawler
+Software
+Game
+Web
+Web crawler
 ```
 # Carrier
 ```
-* Member of C-3(Cat Coding committee)
+Member of C-3(Cat Coding committee)
 ```
 # My Technologies
 ```
-* Unity Engine
-* HTML, CSS, JS
-* Discord Bot
-* Crawling & Phasing
-* Unreal Engine(Learning)
-* Photoshop(Learning) 
-* Blender(Learning)
-* Flutter(Learning)
-* Rust(Learning)
-* React(Larning)
+Unity Engine
+HTML, CSS, JS
+Discord Bot
+Crawling & Phasing
+Unreal Engine(Learning)
+Photoshop(Learning) 
+Blender(Learning)
+Flutter(Learning)
+Rust(Learning)
+React(Larning)
+Linux(Learning)
+
 
 
 
