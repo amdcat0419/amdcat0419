@@ -1,6 +1,6 @@
 # MinJune Cha 
 > Middle school Student who is very interested at programming
-and I am especially interested at game devloping
+and especially interested at game devloping
 
 # Main programming languages
 1. C/C++
