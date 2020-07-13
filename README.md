@@ -1,5 +1,5 @@
 # MinJune Cha 
-> Middle school Student who is very interested at programming
+> Second-Grade Middle school Student who is very interested at programming
 and especially interested at game devloping
 
 # Main programming languages
