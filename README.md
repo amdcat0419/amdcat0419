@@ -19,19 +19,22 @@ Web crawler
 ```
 Member of C-3(Cat Coding committee)
 ```
-# My Technologies
+# Learning ...
 ```
 Unity Engine
 HTML, CSS, JS
+OpenGL
+WebGL
+Windows API
 Discord Bot
 Crawling & Phasing
-Unreal Engine(Learning)
-Photoshop(Learning) 
-Blender(Learning)
-Flutter(Learning)
-Rust(Learning)
-React(Larning)
-Linux(Learning)
+Unreal Engine
+Photoshop
+Blender
+Flutter
+Rust
+React
+Linux
 
 
 
