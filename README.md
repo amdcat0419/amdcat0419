@@ -8,7 +8,7 @@ and especially interested at game devloping
 3. Python
 
 
-# Be able to Develope
+# Be able to Develop
 ```
 Software
 Game
