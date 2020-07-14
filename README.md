@@ -20,9 +20,10 @@ Web crawler
 Member of C-3(Cat Coding committee)
 ```
 # Contact
-* Discord : 암드빠인 고양이#5015
-* KakaoTalk : https://open.kakao.com/me/amdcat
-
+```
+Discord : 암드빠인 고양이#5015
+KakaoTalk : https://open.kakao.com/me/amdcat
+```
 # Learning ...
 ```
 Unity Engine
