@@ -2,6 +2,8 @@
 > Second-Grade Middle school Student who is very interested at programming
 and especially interested at game devloping
 
+![Statistics](https://github-readme-stats.vercel.app/api?username=june0419&show_icons=true)
+
 # Main programming languages
 1. C/C++
 2. C#
