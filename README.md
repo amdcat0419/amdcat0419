@@ -27,7 +27,7 @@ Team. IF
 ```
 Discord : 암드빠인 고양이#5015
 KakaoTalk : https://open.kakao.com/me/amdcat
-Email : june0419a@protonmail.ch
+Email : amdcat@teamif.io
 ```
 # Learning ...
 ```
