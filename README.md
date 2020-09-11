@@ -25,8 +25,8 @@ Team. IF
 ```
 # Contact
 ```
-Discord : 암드빠인 고양이#5015
-KakaoTalk : https://open.kakao.com/me/amdcat
+Discord : AMDCAT#5015
+KakaoTalk : https://open.kakao.com/me/amgo
 Email : amdcat@teamif.io
 ```
 # Learning ...
